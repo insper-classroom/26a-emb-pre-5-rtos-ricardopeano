@@ -16,6 +16,8 @@ const int BTN_PIN_Y = 21;
 const int LED_PIN_R = 5;
 const int LED_PIN_Y = 10;
 
+// teste 2
+
 QueueHandle_t xQueueBtn;
 SemaphoreHandle_t xSemaphore_r;
 SemaphoreHandle_t xSemaphore_y;
